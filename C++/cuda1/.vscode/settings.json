@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.ejs": "html",
-        "cmath": "cpp",
-        "iostream": "cpp",
-        "glut.h": "c",
-        "glext.h": "c"
-    }
-}
