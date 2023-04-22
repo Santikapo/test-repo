@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/header.ejs') %>
+<body>
+    <%- include('./partials/nav.ejs') %>
+    <h1> Register </h1>
+    <div class="login-box">
+        <form action="/register" method="post">
+          
+          <div class="container">
+            <label for="email" style="padding-right: 30px;"><b>Email</b></label>
+            <input type="text" placeholder="Enter Email" name="email">
+        
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw">
+          
+            <button type="submit">Signup</button>
+          </div>
+
+          <% if (exists) { %>
+            <div class="notfound">
+              User already exists
+            </div>
+          <% } %> 
+
+          <a href="/login" style="margin-left: 13px; margin-top: 3px;">Already a User?</a>
+
+           
+
+        </form>
+    </div>
+</body>
+</html>

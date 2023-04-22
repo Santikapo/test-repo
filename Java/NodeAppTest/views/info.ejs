@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/header.ejs') %>
+<body>
+    <%- include('./partials/nav.ejs') %>
+
+    <% content.forEach(song => { %>
+        <div>
+            <%= song['name'] %> , <%= song['artist'] %>
+        </div>
+    <% }); %>
+
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+client_id = "487f97402754478297254b80211a9cba"
+client_secret = 'e97308179f2642cebceadc67e5b58346'
+
+ref = 'AQDQ_E38VCcZ7XzUxH1kB0yw-lXMLoptl47lmI2Z2e66pPzMcJmCADTQdrczwckXcpGw_KAHm0fJS4_Xbwsr6G-jiy0Htfmze2skXIqEpufhCd3asLnk8DVXyk-UvYQNTo4'

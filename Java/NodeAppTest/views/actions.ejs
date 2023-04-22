@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/header.ejs') %>
+    <body>
+        <%- include('./partials/nav.ejs') %>
+        <ul>
+            <li><a href="/" >Liked songs</a></li>
+            <li><a href="/" >Request</a></li>
+            <li><a href="/" >Your Spotify Info</a></li>
+            <li><a href="/" >Login</a></li>
+            <li><a href="/" >Sign Up</a></li>
+        </ul>
+
+        <% if (content) { %>
+        
+        <% content %>
+
+        <% } %>
+
+
+
+
+    </body>
+</html>

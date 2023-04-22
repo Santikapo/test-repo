@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="static/css/main.css">
+    {% if title %}
+        <title>Webpage - {{ title }}</title>
+    {% else %}
+        <title>Webpage</title>
+    {% endif %}
+
+
+</head>
+<body>
+    <div class="header">
+        <header class="main-header-content">
+            <icon style="left: 0;">
+                <a href="/">Santi's Webpage</a>
+            </icon>
+
+            <div style="font-size: 25px; float: right; margin-top: 17px; margin-right: 50px;">
+                <a href="/login" style="padding-right: 25px;">
+                    Login
+                </a>
+                <a href="/Signup">
+                    Signup
+                </a>
+            </div>
+
+
+        </header>
+    </div>
+
+    <div class="container">
+    {% block content%}{% endblock %}
+    </div>
+
+</body>
+</html>

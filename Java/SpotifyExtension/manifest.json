@@ -1,0 +1,21 @@
+{
+    "manifest_version" : 3,
+    "name" : "SpotifyExtension",
+    "description" : "Adds more functionality to spotify",
+    "permissions" : ["storage", "tabs", "activeTab", "scripting"],
+    "version" : "1.0.0",
+    /*"background" : {
+        "service_worker" : "background.js"
+    },*/
+    "content_scripts" : [
+        {
+        "matches" : ["<all_urls>"],
+        "js" : ["content.js"]
+        }
+    ],
+    "action": {
+        "default_icon": {
+            "16": "icon.png"
+        }
+    }
+}

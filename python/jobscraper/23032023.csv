@@ -1,0 +1,532 @@
+TITLE,COMPANY,LOCATION,SALARY,JOBTYPE,BODY,LINK
+Firmware Engineer,Avestec Technologies Inc,"Burnaby, BC",, ,"We at Avestec are pioneering the future of aerial robotics to provide a quicker and safer alternative for industrial inspection. We are searching for a Firmware Developer to help us with the development of our robotic inspection products. The successful candidate will be responsible for developing firmware to integrate new devices onto our aerial robots and ensure the complete system functions as intended.
+Required Qualifications:
+- Pursuing or completed a degree in related Engineering
+- Experience developing within a Linux environment using the command-line
+- Experience using version control (e.g. Git, Bitbucket)
+- Highly proficient in C programming
+- Understanding of MCU peripherals (e.g. timers, I2C, UART, SPI)
+- Understanding of RTOS concepts (e.g. task scheduling, inter-task communication)
+- Experience working with embedded-Linux devices (e.g. Raspberry Pi, Jetson Nano)
+- Experience working with wireless communication modules (e.g. WiFi, sub-GHz)
+- Able to use a multimeter and oscilloscope for debugging
+- Writing documentation
+- Able to work full-time
+Desirable Skills and Experience:
+- Experience with STM32 ARM Cortex-M microcontroller
+- Familiar with robotic control, motor control, PID and algorithm development
+- Familiar with Python programming
+Job Type: Full-time
+Flexible Language Requirement:
+
+ French not required
+
+Schedule:
+
+ 8 hour shift
+
+Ability to commute/relocate:
+
+ Burnaby, BC: reliably commute or plan to relocate before starting work (required)
+
+Application question(s):
+
+ Please advise your current residence city AND status in Canada (PR/Citizen/Work Permit)
+
+Work Location: One location",https://ca.indeed.com/viewjob?cmp=Avestec-Technologies-Inc&t=Firmware+Engineer&jk=a7b9b6984ecf391e&vjs=3
+computer software engineer,CIMTECH MFG INC ,"Surrey, BC",$53.42 an hour,"['Full', 'Permanent']","
+ 
+  Education: Bachelor's degree 
+  Experience: 1 year to less than 2 years 
+  or equivalent experience
+   Work setting
+   Relocation costs covered by employer
+   Tasks
+   Collect and document user's requirements and develop logical and physical specifications
+   Research, evaluate and synthesize technical information to design, develop and test computer-based systems
+   Develop data, process and network models to optimize architecture and to evaluate the performance and reliability of designs
+   Plan, design and co-ordinate the development, installation, integration and operation of computer-based systems
+   Assess, troubleshoot, document, upgrade and develop maintenance procedures for operating systems, communications environments and applications software
+   Lead and co-ordinate teams of information systems professionals in the development of software and integrated information systems, process control software and other embedded software control systems
+   Computer and technology knowledge
+   Android
+   Virtualization
+   C
+   C++
+   Linux
+   Networking software
+   Internet
+   Servers
+   Java
+   Image editing software
+   Programming software
+   HTML editing software
+   Web service design
+   Database software
+   Programming languages
+   Software development
+   Computer-aided design (CAD)
+   MS Office
+   Oracle
+   Python
+   Transportation/travel information
+   Travel expenses paid by employer
+   Work conditions and physical capabilities
+   Fast-paced environment
+   Manual dexterity
+   Personal suitability
+   Efficient interpersonal skills
+   Team player 
+  Work Term: Permanent 
+  Work Language: English 
+  Hours: 30 to 40 hours per week
+ 
+",https://ca.indeed.com/viewjob?jk=f73172fd4636dde8&from=serp&vjs=3
+Firmware Engineer,NETINT Technologies Inc.,"Burnaby, BC",, ,"
+ About NETINT Technologies Inc.
+ 
+  NETINT Technologies is a pioneer of computational storage and video processing SoC solutions for cloud and edge computing. Its Codensity portfolio enables enterprise, cloud data centers, and content providers to deploy high-performance applications that they can scale without limit while minimizing their data storage and video processing costs. NETINT, founded by an experienced team of storage SoC veterans, is a Canadian venture-funded startup with R&D facilities in Vancouver, Toronto, and Shanghai, China. For more information, visit www.netint.ca.
+ 
+  Responsibilities
+ 
+  
+   Develop video firmware on SOC 
+  Develop drivers on Linux embedded platform 
+  Debug firmware and software issues 
+  Conduct unit test and integration test 
+  Writing relevant documentation
+ 
+  
+  
+  Education & Experience requirements
+  
+  
+  
+  MS or BS in Electrical Engineering or Computer Engineering/Science 
+  Proficient in structured firmware/software programming (C/C++) 
+  Understand of low-level hardware architecture, and be familiar with at least one CPU/MCU architecture (ARM, Xtensa, RISC-v, etc.) 
+  Experience in video decode/encode 
+  With enthusiasm on software development, strong learning capability and communication skills
+ 
+  
+  
+  Desirable Skills/ Experiences
+  
+  
+  
+  Experience in Windows and Linux driver will be a plus
+ 
+  
+  
+  We thank you for your interest, however, only candidates selected for an interview will be contacted.
+ 
+  Acknowledgment and Agreement
+ 
+  NETINT Technologies Inc. is an equal opportunity employer and strives to ensure that its hiring process meets the needs of all persons with disabilities. As such, NETINT will provide reasonable accommodation for any applicant, as requested during the hiring process.
+",https://ca.indeed.com/viewjob?jk=6d45297f778059ab&from=serp&vjs=3
+Senior /Lead Control Engineer,Novarc Technologies Inc.,"North Vancouver, BC",, ,"Are you excited to lead the innovation of AI and automation in industrial robotics? If the answer is yes, we have an opportunity for you.
+Our never-before-seen welding cobots require customization and R&D. We are looking for a Senior /Lead Control Engineer to join our growing team and support the development of our cobots.
+Responsibilities
+
+ Developing control system designs following systems engineering methodologies
+ PLC programming and Electrical design
+ Design/programming of Human Machine Interfaces (HMI)
+ Troubleshooting of electrical, PLC, and HMI systems
+ Interfacing with real-time database applications to manage critical production information
+ Preparing functional specifications
+ Estimating, planning and executing projects
+ Adhering to all health and safety rules and procedures
+ Performing other duties as assigned by management
+
+Qualifications and Experience
+
+ Minimum of a Bachelor's Degree in Electrical/Controls/Software Engineering
+ Competent skills in C/C++ and/or Python programming in Linux
+ Proven skills in developing motion control embedded software in multithreaded, real-time environments
+ Familiarity with ROS/ROS2
+ Experience with 6 DoF robotics
+ Experience with PLC programming (ie. ladder logic, structured text, state diagram)
+ Expertise with safety PLCs, safety standards, and risk assessment
+ Strong knowledge of control theory, feedback control, data filtering, and different control strategies such as PID, and MPC
+ Experience with different communication protocols such as EtherCAT, Ethernet/IP, Modbus TCP, CANopen, Devicenet, UDP, etc
+ Applicants must complete an online coding assessment prior to meeting the screener
+
+About Novarc Technologies:
+Novarc Technologies is a Vancouver-based full-stack robotics and AI company specializing in the design and commercialization of cobots and AI systems for robotic welding applications. Novarc’s flagship product Spool Welding Robot (SWR) is the world’s first welding cobot and SWR has already won multiple industry awards, been featured in top publications, and generated significant revenue).
+Our diverse team consists of engineers, developers, technicians, welders, scientists who are designing and building the welding industry’s most advanced automation solutions with the passion of helping our customers win.
+Why Novarc:
+
+ Growing Opportunities - We are in the process of maturing into a fast-growing medium-sized business.
+ Great place to be - We have created a fun, adventurous, and open-minded environment where our teams are encouraged to bond and expose a little weirdness.
+ Best People - Our team is made up of talented, intelligent, and hardworking people.
+ Lots of Opportunities - We are constantly looking for stand-out talent internally to move into leadership positions.
+
+We are excited to invite you to join our growing team for this amazing journey!
+Job Types: Full-time, Permanent
+Benefits:
+
+ Casual dress
+ Company events
+ Dental care
+ Disability insurance
+ Employee assistance program
+ Extended health care
+ Flexible schedule
+ On-site parking
+ Paid time off
+ Wellness program
+
+Schedule:
+
+ Monday to Friday
+
+Supplemental pay types:
+
+ Bonus pay
+
+Ability to commute/relocate:
+
+ North Vancouver, BC: reliably commute or plan to relocate before starting work (required)
+
+Application question(s):
+
+ Are you willing to do an online take-home assessment as part of the interview process?
+
+Education:
+
+ Bachelor's Degree (required)
+
+Work Location: One location",https://ca.indeed.com/viewjob?cmp=Novarc-Technologies-Inc.&t=Senior&jk=61b5e743d466d01c&vjs=3
+Intermediate Systems Engineer – Flight Software,MDA ,"Richmond, BC",, ,"
+ For those who dream of advancing our space in the Universe and on Earth, we will take you there. 
+  Serving the world from our Canadian home and our global offices, MDA is an international space mission partner and robotics & space operations, satellite systems and geointelligence pioneer with a 50-year story of firsts on and above the Earth. Today, we are leading the charge towards viable Moon colonies, enhanced Earth observation, communication in a hyper-connected world, and more. 
+  We are fueled by a pioneering spirit that carries us beyond. And together we enable highly skilled people to continually push boundaries and tackle big challenges requiring solutions that endure and inspire. 
+  Are you ready to launch the next stage of your career in the new space economy? We would love to hear from you!
+  
+  
+  Role: 
+  As part of a space mission team, you will work on a program such as CHORUS, a satellite constellation using Synthetic Aperture Radar to derive worldwide insights about our planet. You will work with other engineers in a multi-disciplinary team environment to establish the mission requirements and design, oversee and participate in vendor flight software development, participate in spacecraft and mission integration and testing, and achieve reliable operations. 
+  Responsibilities: 
+  As an Intermediate Systems Engineer – Flight Software, you will have a wide range of responsibilities that may include: 
+  
+  Providing software expertise to supplement other specialties (electrical, mechanical, operations etc.) in a mission team; 
+  Performing technical tasks, such as operational analyses and trade-off studies, to define requirements and design at mission, system, and subsystem levels; 
+  Creating and contributing to deliverable documents such as operational concepts, requirements specifications, interface control documents, and engineering plans; 
+  Presenting design proposals, plans, and reports in clear, complete, concise and non-ambiguous terms; 
+  Developing and/or reviewing flight software, subsystem, and spacecraft test plans and procedures; 
+  Participate as an integrated team member with vendor flight software development and Assembly, Integration and Test (AIT) teams; 
+  Integrating flight software with flight hardware, testing and troubleshooting; 
+  Formal acceptance testing of flight software; 
+  Supporting integration and verification activities of the overall Spacecraft, Ground Segment, and Mission; 
+  Frequent travel within Canada to vendor and MDA sites.
+ 
+  
+  
+  Required Skills and Experience: 
+  
+  Bachelor’s degree in Systems Engineering, Aerospace Engineering, Computer Engineering, Computer Science, or an equivalent combination of education/experience; 
+  Development of one or more the following: spacecraft platform or payload flight software, mission critical software, embedded software; 
+  Development and/or use of Command and Control, Monitoring and Control, or Communications systems; 
+  Development of software with significant resource constraints (processor speed, memory, communication capacities limited relative to conventional host environments) ; 
+  Familiarity with real-time operating systems or kernels (commercial products or custom) ; 
+  Experience with spacecraft, bus (platform), or payload Assembly, Integration, and Testing; 
+  Requirements analysis, specification, and verification; 
+  Specification of interfaces, including but not limited to command and telemetry messaging; 
+  Estimation/analysis of resource budgets and Technical Performance Measures 
+  Trouble-shooting of complex systems; 
+  Data analysis and reduction; 
+  Have an understanding of different types of engineering lifecycle as applicable from large complex programs to software development; 
+  Familiarity with software development methodology 
+  Be able to work flexibly and manage multiple tasks in a dynamic environment; 
+  Have excellent verbal and written communication skills and customer interaction skills; 
+  Have a team-friendly attitude and willingness to learn. 
+  
+ While not mandatory, candidates will benefit from any of the following: 
+  
+  Familiarity with CCSDS, ESA, and NASA standards 
+  Familiarity with data communication and storage security standards 
+  Experience with satellite operations 
+  Experience with radiation tolerant systems and mitigation of radiation effects on software execution and storage 
+  Experience developing or using spacecraft simulators 
+  Prior involvement in remote sensing, earth observation, space science, or space communications missions;
+ 
+
+",https://ca.indeed.com/viewjob?jk=4c7e5084ca703f66&from=serp&vjs=3
+Senior Software Engineer - VIDEO - Greater Vancouver area Candidate,W,"Pitt Meadows, BC",, ,"
+ At WISI, we have spent almost 100 years focused on implementing the most innovative and reliable technology solutions.
+  
+  We are looking for a local Senior Software Engineers to join us as we scale up our Engineering team here at WISI, delivering carrier-grade video transcoder products to cable/video operators.
+  
+  We offer a competitive salary and benefits package and have some awesome perks in our beautiful office space. The company is located in Pitt Meadows, BC a suburb of Metro Vancouver. We are in a gorgeous location near walking and biking trails, away from the hustle and bustle of the city. 
+  We are proud to have been certified as a Great Place To Work after a thorough and independent analysis conducted by the Great Place To Work Institute Canada for the 5th consecutive year.
+  
+  
+  The Role: 
+  You will join our growing engineering team as a Senior Software Engineer to design and build high-performance video delivery solutions. We are a small passionate team focused on delivering carrier grade software to our customers in an agile fashion.
+  
+  You are passionate about technology and have worked previously in the video processing industry. You have experience with a variety of programming languages and technologies and aren’t afraid to try a new one. Your passion for software development keeps you learning and adopting new techniques and trends to improve how you work, not just the code you write.
+   You will: 
+  
+  Collaborate with other software developers to plan, design, develop, test, and maintain web and embedded applications. 
+  Participate in peer-reviews of solution designs and related code.  
+  Design and implement tools and processes to rapidly iterate and continuously release software. 
+  Mentor and support the growth and development of other team members by sharing your experiences and best practices. 
+  Produce well-organized, optimized, and documented source code. 
+  Develop repeatable scientific test methods and tools for performance and load testing of company products and prototypes and quality assurance initiatives. 
+  Analyze test results to identify issues and opportunities and characterize hardware and software performance to aid in business planning, new product discovery and product improvement.
+ 
+  
+  
+  Required skills: 
+  
+  Bachelor's Degree or equivalent in Computer Science or related discipline  
+  5+ years of professional experience in software development 
+  Experience with Gstreamer Media Framework 
+  Working knowledge of various conditional access/video/audio codec and streaming protocols including MPEG-2-TS, AVC, HEVC, HLS, MPEG-DASH, Dolby Digital 
+  Working knowledge of various video broadcast and transmission standards (ATSC, DVB , NTSC, PAL) 
+  Use the technology stack that includes but not limited to: C/C++, Golang, JavaScript, Shell Scripts, Git, Linux, Docker 
+  Knowledge of OOP design and patterns.  
+  Knowledge of SQL and noSQL databases, including postgres, redis, influxdb, mysql 
+  Understanding of software development best practices and experience with unit testing, using version control systems (Git), and continuous integration. 
+  Experience with Agile methodologies 
+  Passion for quality and writing clean, solid, readable code that scales and performs well
+ 
+  
+  
+  Bonus Skills: 
+  
+  Experience with various embedded processor architectures 
+  Experience in web technologies utilizing microservices and REST
+ 
+  
+  
+  What’s in it for you: 
+  
+  A chance to work on cutting edge technology, with global customers, in a hot industry. 
+  Learning is one of our core values so there are many opportunities for career development through lunch & learns, training, courses etc. 
+  We offer competitive salaries, a comprehensive benefits package including health, dental, and vision coverage, and an Employee and Family Assistance Program to support the wellbeing of you and your family. 
+  Additional health and wellness support through a health & wellness spending account to put your dollars where you need it most. 
+  Flexible, hybrid work environment 
+  Birthday Day off - after all this is YOUR day. 
+  RRSP matching program - we invest in your future. 
+  Paid Volunteer Hours. 
+  Be a part of a team of incredibly talented, driven, fun and supportive teammates. 
+  Contribute to WISI’s award-winning Culture. We’re a Certified Great Place To Work and on the 2021 list of Best Workplace in Canada. 
+  There's more but we will tell you more when we meet you!
+ 
+  
+  Must be eligible to work in Canada
+ 
+  We are an equal opportunity employer and a very diverse company! We do not discriminate on the basis of race, colour, religion, national origin, sex, gender identity, gender expression, sexual orientation, age, marital status, age, language or disability status.
+",https://ca.indeed.com/viewjob?jk=85e5388f993528db&from=serp&vjs=3
+Senior Firmware/ Software Engineer,NETINT Technologies Inc.,"Burnaby, BC",, ,"
+ About NETINT Technologies Inc.
+ 
+  NETINT Technologies is a pioneer of computational storage and video processing SoC solutions for cloud and edge computing. Its Codensity portfolio enables enterprise, cloud data centers, and content providers to deploy high-performance applications that they can scale without limit while minimizing their data storage and video processing costs. NETINT, founded by an experienced team of storage SoC veterans, is a Canadian venture-funded startup with R&D facilities in Vancouver, Toronto, and Shanghai, China. For more information, visit www.netint.ca.
+ 
+  Job Scope
+ 
+  NETINT provides hardware smart video transcoding solutions for cloud users. Its new generation chip has world-leading video encoding quality, throughput, with ultra-low latency. With its embedded AI inference capability, the new generation chip allows users to perform video analytics, video enhancement, and other smart videos/audios functionalities. We are looking for a Firmware/Software Engineer to help us create artificial intelligence products.
+ 
+  Responsibilities
+ 
+  
+   Design and implement machine learning systems based on the SOC platform 
+  Analyzing and enhancing efficiency, stability and scalability of system resources 
+  Interface with hardware design and development 
+  Performance optimization and system fine-tuning 
+  Maintain and extend existing machine learning libraries and frameworks 
+  Keep abreast of developments in the field
+ 
+  
+  
+  Qualifications
+ 
+  
+   Deep knowledge of the embedded system, firmware (3+ years) 
+  Ability to write robust code in C/C++, Python 
+  Good communication skills 
+  Ability to work in a team 
+  Good analytical and problem-solving skills 
+  Understanding of data structures, data modeling, and software architecture 
+  BSc in Computer Science, Mathematics or similar field; Master’s degree is a plus 
+  Familiarity with machine learning frameworks and libraries is a plus 
+  Previous experience with hardware encoder/decoder is a plus 
+  Proven experience as a Machine Learning Engineer or similar role is a plus 
+  Previous experience with image/audio processing is a plus 
+  Previous experience with NPU (deep learning inference engine) is a plus
+ 
+   
+ We thank you for your interest, however, only candidates selected for an interview will be contacted.
+ 
+  Acknowledgment and Agreement
+ 
+  NETINT Technologies Inc. is an equal opportunity employer and strives to ensure that its hiring process meets the needs of all persons with disabilities. As such, NETINT will provide reasonable accommodation for any applicant, as requested during the hiring process.
+",https://ca.indeed.com/viewjob?jk=ddcb23253ab77bac&from=serp&vjs=3
+Full Stack Developer - Android/iOS Application and Bluetooth - Vodasafe,BLANKSLATE Partn,"Vancouver, BC",, ,"
+ 
+  VodaSafe saves lives. We build innovative technology for first responders and search and rescue personnel. Our first product, AquaEye®, is a hand-held sonar device for water rescue that launched in 2019. We are seeking a bright and highly motivated individual to join our team, bring new ideas to product design and aid new customers in using AquaEye to help their teams stay safe and respond to emergency situations faster.  
+  We are seeking an experienced Full Stack Developer to join our team on a contract basis and help us build a cross-platform Android and iOS application with a back end. The application will connect to a handheld device using Bluetooth technology to program the device and download data from the device, which will be used to display information to users. The successful candidate will be responsible for the design, development, and deployment of the application and will be expected to work collaboratively with our team to deliver a high-quality product.
+   Responsibilities: 
+  
+   Develop a cross-platform Android and iOS application with a back-end that connects to a handheld device using Bluetooth technology 
+  
+  
+   Work closely with our team to understand the product requirements and user needs 
+   Develop a user-friendly interface for the application 
+   Develop the back-end system to manage the data and integrate with the front-end 
+   Ensure that the application is scalable, reliable, and secure 
+   Troubleshoot and debug any issues that arise during the development process 
+  
+  
+   Optimize the application for performance and speed 
+   Develop and maintain documentation for the application 
+   Provide suggestions for improvements to the application. 
+  
+  Requirements
+   Requirements:
+  
+    Applicants of all levels are welcome, including senior leads, engineers, and graduate candidates
+  
+  
+    At least 3 years of experience in developing cross-platform Android and iOS applications with a back-end that can connect to a physical device 
+   Hands-on experience with integration of HW/SW systems using Bluetooth Low Energy 
+   Strong knowledge of front-end development tools and frameworks, such as React Native and Flutter 
+   Experience with back-end development tools and frameworks, such as Node.js 
+   Experience with database technologies such as MySQL, MongoDB, and Firebase 
+  
+  
+   Experience with cloud technologies such as AWS, Azure, and Google Cloud Platform 
+   Ability to work independently and manage multiple projects simultaneously 
+   Experience with Agile development methodologies is a plus 
+  
+  Nice to have experience with:
+  
+    Experience with any of the following: User interface design, IoT solutions, Embedded systems, C/C++, Microcontrollers
+  
+  
+    Familiarity with DevOps or equivalent 
+  
+  Benefits
+   This is a contract opportunity with the possibility of full time.
+ 
+",https://ca.indeed.com/viewjob?jk=b04519c043043f2b&from=serp&vjs=3
+Intermediate System Engineer,NETINT Technologies Inc.,"Burnaby, BC",, ,"
+ About NETINT Technologies Inc.
+ 
+  NETINT Technologies is a pioneer of computational storage and video processing SoC solutions for cloud and edge computing. Its Codensity portfolio enables enterprise, cloud data centers, and content providers to deploy high-performance applications that they can scale without limit while minimizing their data storage and video processing costs. NETINT, founded by an experienced team of storage SoC veterans, is a Canadian venture-funded startup with R&D facilities in Vancouver, Toronto, and Shanghai, China. For more information, visit www.netint.ca.
+ 
+  About this Position
+ 
+  This is a Full-time, Regular employment opportunity. NETINT offers competitive salaries, benefits and endless learning and development opportunities.
+ 
+  This is a flexible position and has the option of working in either Burnaby or Markham office.
+ 
+  Job Scope
+ 
+  As a System Engineer, you are responsible for the functionality and quality of the ASIC design at the system level. You are detail oriented in designing and executing stress tests, and good at systematically identifying and reproducing hardware and firmware issues. You will be working closely with ASIC designer and embedded FW engineer to develop solutions and workarounds. Responsibilities for this position include designing/ implementing/ executing stress tests at subsystem and system levels, functional modules, and all data flows of Storage and Video SoCs.
+ 
+  Responsibilities
+ 
+  
+   Hands on debug capability using lab equipment and debugger tools 
+  Bring up of embedded CPU/GPU cores, subsystem blocks and system level integration on prototype boards 
+  Develop embedded firmware for system level stress tests 
+  Develop automation test platform and test scripts 
+  Work with hardware and firmware teams on identifying and resolving issues, and come up with workaround solutions 
+  Work on prototyping platform development and verification of current and future SoCs
+ 
+  
+  
+  Qualifications
+ 
+  
+   MS or BS in Electrical/Computer Engineering or equivalent 
+  Minimum 2 years of experiences in system validation or ASIC/FPGA IP/VIP integration and design 
+  Ability to understand hardware technical reference manual 
+  Experience with embedded FW in C/C++ and assembly 
+  Experience with CPU architectures, high speed I/Os and on-chip interconnects 
+  Knowledge of scripting languages such as Python, TCL, Perl 
+  Strong ability to analyze complex HW issues and find resolutions
+ 
+  
+  
+  Highly Desirable Skills
+ 
+  
+   Experience of working on video products is an asset 
+  Experience in PCB design, layout, and board bring up is an asset 
+  Knowledge of silicon testing/qualification procedure/methodology for production is an asset
+ 
+  
+  
+  We thank you for your interest, however, only candidates selected for an interview will be contacted.
+ 
+  Acknowledgment and Agreement
+ 
+  NETINT Technologies Inc. is an equal opportunity employer and strives to ensure that its hiring process meets the needs of all persons with disabilities. As such, NETINT will provide reasonable accommodation for any applicant, as requested during the hiring process.
+",https://ca.indeed.com/viewjob?jk=122b2c41392f0acd&from=serp&vjs=3
+"Senior Technical Program Manager, Availability",Block,"Vancouver, BC",, ,"
+ Company Description
+  Since we first opened our doors in 2009, the world of commerce has evolved immensely – and so has Square. After enabling anyone to take a payment and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together. So we expanded into software and started building integrated, omnichannel solutions – to help sellers sell online, manage inventory, run a busy kitchen, book appointments, engage loyal buyers, and hire and pay staff. And across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow all in one place.
+  Today, we’re a partner to sellers of all sizes – large, enterprise-scale businesses with complex commerce operations, sellers just starting out, as well as merchants who began selling with Square and have grown larger over time. As our sellers scale, so do our solutions. We all grow together.
+  There is a massive opportunity in front of us. We’re building a business that is big, meaningful, and lasting. And we are helping sellers around the world do the same.
+ 
+ 
+
+ Job Description
+  We’re hiring for a Senior Technical Program Manager - Reliability for the Reliability and Incident Management TPM team in Foundational Engineering. The Reliability and Incident Management Team is focused on driving our longer term Reliability and Incident Management roadmap across Square and enabling more predictable outcomes for our engineers and sellers under fire through processes, tooling and frameworks.
+  We’re looking for a TPM to coordinate and drive large-scale Site Reliability and Disaster Recovery initiatives at Square. You will help to report on organizational-level reliability and disaster recovery trends. You will deliver projects that build resilience into Square’s critical business systems and ensure service and data availability for our sellers. You will use your program leadership skills and technical expertise in DevOps (site reliability, disaster recovery and tooling automation) to deliver successful project outcomes.
+  Note this role will report into our TPM Lead for Reliability and Incident Management and partner closely with our Cloud Platform Engineering organization within Foundational Engineering.
+  What You Will Be Doing:
+ 
+   Create Square-wide Disaster Recovery metrics and guide adoption of Disaster Recovery program
+   Lead planning, execution and monitoring of large scale initiatives related to Site Reliability and Disaster Recovery and coordinate cross-functional dependencies
+   Work with teams to clarify objectives, KPIs and success criteria and communicate blockers, risks and outcomes to management
+   Take a data-driven approach to program management, building tools and leveraging data to drive stakeholder buy-in
+ 
+ 
+ 
+
+ Qualifications
+  Must have:
+ 
+   Bachelor’s degree in Computer Science or Computer Information Systems and/or equivalent work experience in related technical field
+   5+ years of technical program management experience in agile software development environment with a proven track record leading large, complex technology projects and managing risks
+   Fluency in Agile project management methodologies (such as Kanban, Scrum, or SAFe); having an active project management certification (PMP, CSM, etc) is a strong plus
+   Solid understanding of SDLC and familiarity with software architecture and design
+   Firm grasp of traditional SRE and DevOps concepts
+   Prior experience with a public cloud such as AWS, GCP, etc.
+   Experience with data manipulation and analysis
+   Excellent written and verbal communication skills
+   Strong collaboration skills; comfortable working with leadership and explaining technical subject matter to non-technical business partners
+ 
+  Nice to have:
+ 
+   Experience and comfort working with remote, distributed project teams
+   Have partnered with stakeholders on disaster or business continuity related governance
+   Prior experience as a software engineer, developer or SRE is a huge plus
+   Experience with quality assurance, quality engineering or test engineering
+   Experience with project management and work productivity tools such as Jira, Google Suite, SmartSheets
+   Exposure to observability tools such as SignalFx, Datadog, Sentry and PagerDuty
+ 
+  Additional Information
+ 
+  We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace.
+  Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+  We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.
+  Learn more about our efforts to promote inclusion and diversity at block.xyz/inclusion
+  Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.
+  Perks
+  We want you to be well and thrive. Our global benefits package includes:
+ 
+   Healthcare coverage
+   Retirement Plans
+   Employee Stock Purchase Program
+   Wellness perks
+   Paid parental leave
+   Paid time off
+   Learning and Development resources
+ 
+  Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.
+",https://ca.indeed.com/viewjob?jk=7e4dcda585bf5792&from=serp&vjs=3
