@@ -65,7 +65,7 @@ int main(int argc, char **argv) {
         WIN_HEIGHT * 1,
         SDL_WINDOW_OPENGL/*SDL_WINDOW_FULLSCREEN_DESKTOP*/);
 
-    SDL_SetWindowSize(window, 1000, 1000);
+    //SDL_SetWindowSize(window, 1000, 1000);
 
     // create renderer
     SDL_Renderer *renderer = SDL_CreateRenderer(
@@ -149,7 +149,7 @@ int main(int argc, char **argv) {
     }
 
     // calculate brightness span
-    float zfactor = 200 / (zmax-zmin);
+    float zfactor = 255 / (zmax-zmin);
     /*// cycle through points
     for (int i = 0; i < AREA*4; i+=4) {
         pixels[i+2] = ((points[i/4].z-zmin)*zfactor);
@@ -187,8 +187,8 @@ int main(int argc, char **argv) {
     
 
         roll += 0.005;
-        yaw += 0.001;
-        //n+= 0.01;
+        yaw += 0.005;
+        pitch += 0.005;
 
         
         a = cos(yaw)*cos(pitch);
@@ -241,7 +241,7 @@ int main(int argc, char **argv) {
         }
 
         for (int i = 0; i < AREA*4; i+=4) {
-            temp = (newpoints[i/4].z-zmin)*zfactor+55;
+            temp = (newpoints[i/4].z-zmin)*zfactor;
             pixels[i+2] = temp;
             /*    blue = pow(temp/255,sin(n)+2);
             red = pow((-(temp/255))+1,sin(n)+2);        pixels[i+2] = blue*255;
