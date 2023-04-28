@@ -21,7 +21,10 @@ def broadcast(message):
 def handle(client):
     while True:
         try:
+            print("waiting for message")
             message = client.recv(1024)
+            if message.decode('ascii') == "":
+                break
             broadcast(message)
         except:
             index = clients.index(client)
@@ -35,6 +38,7 @@ def handle(client):
 
 def receive():
     while True:
+        print("waiting for connection")
         client, address = server.accept()
         print(f"Connected with {str(address)}")
         
